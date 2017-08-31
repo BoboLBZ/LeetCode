@@ -27,6 +27,9 @@
     <ClInclude Include="91_DecodeWays.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="498_DiagonalTraverse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -36,6 +39,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="91_DecodeWays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="498_DiagonalTraverse.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

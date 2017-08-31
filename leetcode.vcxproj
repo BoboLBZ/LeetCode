@@ -146,11 +146,13 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="498_DiagonalTraverse.h" />
     <ClInclude Include="91_DecodeWays.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="498_DiagonalTraverse.cpp" />
     <ClCompile Include="leetcode.cpp" />
     <ClCompile Include="91_DecodeWays.cpp" />
     <ClCompile Include="stdafx.cpp">

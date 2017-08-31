@@ -7,9 +7,9 @@
 #include <vector>
 
 using namespace std;
-#include "91_DecodeWays.h"
+#include "498_DiagonalTraverse.h"
 int main()
 {
-	cout << numDecodings("120") << endl;;
+	//cout << numDecodings("120") << endl;;
 	return 0;
 }
