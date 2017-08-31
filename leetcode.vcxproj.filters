@@ -30,6 +30,9 @@
     <ClInclude Include="498_DiagonalTraverse.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="318_MaximumProductofWordLengths.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -42,6 +45,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="498_DiagonalTraverse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="318_MaximumProductofWordLengths.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

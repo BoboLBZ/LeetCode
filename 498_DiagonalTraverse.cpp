@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include <iostream>
 #include<vector>
 #include "498_DiagonalTraverse.h"

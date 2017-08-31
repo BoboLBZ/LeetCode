@@ -5,11 +5,15 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
 using namespace std;
-#include "498_DiagonalTraverse.h"
+
+#include "318_MaximumProductofWordLengths.h"
+
 int main()
 {
-	//cout << numDecodings("120") << endl;;
+	vector<string> my{"eae","ea","aaf","bda","fcf","dc","ac","ce","cefde","dabae" };
+	cout << maxProduct(my)<< endl;
+	//cout << my[2].find('a') << endl;
+	//cout << my[2].find('e') << endl;
 	return 0;
 }
